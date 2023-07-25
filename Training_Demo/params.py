@@ -11,8 +11,7 @@ if DATASET == 'IAM':
 if DATASET == 'CVL':
     DATASET_PATHS = 'files/CVL-32.pickle'
     NUM_WRITERS = 283
-ENGLISH_WORDS_PATH = '/content/english_words.txt'
-
+ENGLISH_WORDS_PATH = '/content/handwriting_gene/Training_Demo/english_words.txt'
 ###############################################
 
 IMG_HEIGHT = 32
