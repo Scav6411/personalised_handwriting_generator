@@ -66,9 +66,10 @@ See the personalized handwriting generation model [here](https://colab.research.
 
 Note:  Please change the runtime the runtime to GPU before running all the cells. For personalised handwriting upload your image and change its image path in the mentioned location.
 
-### **App**
+### **Website**
 
-You can try our apps for both demo files and try out our features [here](https://drive.google.com/drive/folders/167v6vOH3nJAmEWW2t1ItxL1WtSzrpboh?usp=sharing).
+You can check the [video](https://drive.google.com/drive/folders/1Qb9-_9PHrzC5MtJfg__y7opu3COtJaYu?usp=sharing) for our website.
+You can try our website for the demo file and try out our features [here](https://drive.google.com/drive/folders/167v6vOH3nJAmEWW2t1ItxL1WtSzrpboh?usp=sharing). Please download the zip file and change some paths.
 
 ### **Results and Accuracy Measures**
 We have used FID Score as our metrics for the following model. Below are some of our results and their fid scores.
